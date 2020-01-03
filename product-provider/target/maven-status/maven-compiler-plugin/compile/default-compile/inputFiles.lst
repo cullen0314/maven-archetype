@@ -1,0 +1,9 @@
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\service\impl\HelloServiceImpl.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\mq\message\Demo01Message.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\dao\HelloDAO.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\utils\JedisUtil.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\ProductApplication.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\mq\producer\Demo01Producer.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\mq\consumer\Demo01AConsumer.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\mq\consumer\Demo01Consumer.java
+C:\IdeaProject\maven-archetype\product-provider\src\main\java\com\cullen\dao\cache\HelloCacheDAO.java
