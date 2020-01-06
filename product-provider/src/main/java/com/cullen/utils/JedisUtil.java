@@ -82,7 +82,7 @@ public class JedisUtil {
     /**
      * 释放资源
      */
-    public void closeAll(){
+    /*public void closeAll(){
         Jedis jedis = threadJedis.get();
         if(jedis != null){
             threadJedis.set(null);
@@ -92,7 +92,7 @@ public class JedisUtil {
                 pool.returnResource(jedis);
             }
         }
-    }
+    }*/
 
     /**
      * 判断key是否存在

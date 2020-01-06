@@ -40,8 +40,6 @@ spring:
         max-wait: -1 # 连接池最大阻塞等待时间，单位：毫秒。默认为 -1 ，表示不限制。
 
 logging:
-  level: info # 日志级别
-  path: C:\IdeaProject\logs\maven-archetype\product # 日志打印至该目录
 
 # mybatis 配置内容
 mybatis:
