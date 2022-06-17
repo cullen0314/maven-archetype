@@ -35,7 +35,7 @@
         <mysql-connector-java.version>5.1.48</mysql-connector-java.version>
         <dubbo.version>2.7.1</dubbo.version>
         <mybatis-spring-boot-starter.version>2.0.1</mybatis-spring-boot-starter.version>
-        <fastjson.version>1.2.61</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <!-- 声明一些项目依赖管理，方便我们的依赖版本管理 -->
